@@ -7,6 +7,7 @@ import Categories from "./components/Categories";
 import ShowFullItem from "./components/ShowFullItem";
 import { HelmetProvider } from "react-helmet-async";
 import SEO from "./components/Seo";
+<img src={`${process.env.PUBLIC_URL}/images/photo.jpg`} alt="Example" />
 
 class App extends React.Component {
   constructor(props){
