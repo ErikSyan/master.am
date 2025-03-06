@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">master.am</string>
+    <string name="title_activity_main">master.am</string>
+    <string name="package_name">com.master.am</string>
+    <string name="custom_url_scheme">com.master.am</string>
+</resources>
