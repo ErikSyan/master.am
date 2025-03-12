@@ -35,6 +35,12 @@ class App extends React.Component {
                   tesak: "Սանտեխնիկա",
                   img: "pexels-clickerhappy-675987.jpg",
                   categories: "Plumbing",
+
+                  masnaget:"Սանտեխնիկ",
+                  anun: "Arman",
+                  volortum: "Volortum-5tari",
+                  nkar:"man-personage-with-neutral-facial-expression_316839-7775.avif",
+                  heraxos: "+37477386850" 
                 },
                 {
                   id : 2,
@@ -42,6 +48,12 @@ class App extends React.Component {
                   img: "anthony-indraus-Bb9jWuTMPUk-unsplash.jpg",
                 
                   categories: "Electricity",
+
+                  masnaget:"Էլեկտրիկ",
+                  anun: "Karen",
+                  volortum: "Volortum-10tari",
+                  nkar:"man-personage-with-neutral-facial-expression_316839-7775.avif",
+                  heraxos: "+37477386850" 
                  
                 },
                 {
@@ -50,6 +62,11 @@ class App extends React.Component {
                   img: "R.jpg",
                   
                   categories: "Moving",
+
+                  masnaget:"Տեղափոխման ծառայություններ",
+                  anun: "Gurgen",
+                  volortum: "Volortum-10tari",
+                  nkar:"man-personage-with-neutral-facial-expression_316839-7775.avif",
                  
                 },
                 {
@@ -58,6 +75,11 @@ class App extends React.Component {
                   img: "rocknwool-jGXBpAKGkfI-unsplash.jpg",
                   
                   categories: "Knitting",
+
+                  masnaget:"Կար ու ձև",
+                  anun: "Vazgen",
+                  volortum: "Volortum-1tari",
+                  nkar:"man-personage-with-neutral-facial-expression_316839-7775.avif",
               
                 },     
                 {
@@ -66,6 +88,11 @@ class App extends React.Component {
                   img: "element5-digital-OyCl7Y4y0Bk-unsplash.jpg",
                   
                   categories: "Child",
+
+                  masnaget:"Երեխայի զարգացում",
+                  anun: "Petros",
+                  volortum: "Volortum-3tari",
+                  nkar:"man-personage-with-neutral-facial-expression_316839-7775.avif",
                   
                 },
                 {
@@ -74,6 +101,11 @@ class App extends React.Component {
                   img: "ai-generated-8511571_1280.jpg",
                  
                   categories: "Cleaning",
+
+                  masnaget:"Երեխայի զարգացում",
+                  anun: "Petros",
+                  volortum: "Volortum-3tari",
+                  nkar:"man-personage-with-neutral-facial-expression_316839-7775.avif",
                
                 }, 
                {
@@ -82,6 +114,11 @@ class App extends React.Component {
                 img: "1024.jpg",
                
                 categories: "Yard",
+
+                masnaget:"Երեխայի զարգացում",
+                anun: "Petros",
+                volortum: "Volortum-3tari",
+                nkar:"man-personage-with-neutral-facial-expression_316839-7775.avif",
                 
               },
               {
@@ -90,6 +127,11 @@ class App extends React.Component {
                   img: "pexels-pixabay-209266.jpg",
                   
                   categories: "Construction",
+
+                  masnaget:"Երեխայի զարգացում",
+                  anun: "Petros",
+                  volortum: "Volortum-3tari",
+                  nkar:"man-personage-with-neutral-facial-expression_316839-7775.avif",
                   
                 },
               
@@ -99,6 +141,12 @@ class App extends React.Component {
                 img: "pexels-mikebirdy-190574.jpg",
                 
                 categories: "Car",
+
+                masnaget:"Երեխայի զարգացում",
+                anun: "Petros",
+                volortum: "Volortum-3tari",
+                nkar:"man-personage-with-neutral-facial-expression_316839-7775.avif",
+                heraxos: "+37477386850" 
                 
               },
               ],

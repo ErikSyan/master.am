@@ -9,7 +9,12 @@ function ItemDetails({ items }) {
 
   return (
     <div className="item-details">
-      <h1>{item.tesak}</h1>
+      <h1>{item.masnaget}</h1>
+      <img src={`/img/${item.nkar}`} alt={item.tesak} width="300" /> 
+       <h2>{item.anun}</h2>
+       <h2>{item.volortum}</h2>
+       <h1>Հեռ: <a href={`tel:${item.heraxos}`}>{item.heraxos}</a></h1>
+
     </div>
   );
 }

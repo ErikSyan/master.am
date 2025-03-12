@@ -16,7 +16,7 @@ export default class Header extends Component {
             <Navbar.Collapse id="responsive-navbar-nav">
               <Nav className="me-auto">
                 <Nav.Link as={Link} to="/">Home</Nav.Link>
-                <Nav.Link as={Link} to="/about">Ծառայություններ</Nav.Link>
+                {/* <Nav.Link as={Link} to="/about">Ծառայություններ</Nav.Link> */}
                 <Nav.Link as={Link} to="/contacts">Աշխատեք Master</Nav.Link>
                 <Nav.Link as={Link} to="/blog">Մեր մասին</Nav.Link>
               </Nav>

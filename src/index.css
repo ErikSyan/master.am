@@ -6,13 +6,18 @@
     box-sizing: border-box;
 }
 
+#root{
+    background-color: hsl(120, 47%, 93%);
+}
+
 body {
     font-family: 'Inter', sans-serif;
     font-size: 16px;
     line-height: 1.6;
     color: #333;
-    background-color: hsl(120, 27%, 95%);
+    background-color: hsl(120, 47%, 93%);
     font-weight: 300;
+    
 }
 
 h1, h2, h3 {
@@ -140,10 +145,7 @@ main .add-to-cart:hover, .full-item .add-to-cart:hover {
     transform: scale(1.2) translateY(-3px);
 }
 
-footer {
-    text-align: center;
-    margin-top: 10px;
-}
+
 
 .bath-icon {
     font-size: 2rem;
@@ -176,4 +178,30 @@ footer {
         max-width: 300px;
         font-size: 18px;
     }
+}
+
+.contacts {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 270px;
+
+    margin-bottom: 200px;
+}
+
+
+.contactss{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 65px;
+
+    margin-bottom: 200px;
+}
+
+
+
+footer {
+    text-align: center;
+    margin-top: 10px;
 }
